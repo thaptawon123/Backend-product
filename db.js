@@ -1,5 +1,4 @@
 import { Sequelize, DataTypes } from "sequelize";
-import { Sequelize, DataTypes } from "sequelize";
 // database connection
 import dotenv from "dotenv";
 dotenv.config();
